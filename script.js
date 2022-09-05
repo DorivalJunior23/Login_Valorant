@@ -1,3 +1,5 @@
+//Login Valorant made in HTML
+//Author: Dorival
 const inputs = document.querySelectorAll('.input');
 const button = document.querySelector('.login__button');
 
